@@ -4,8 +4,18 @@
 .sub{
     font-family: "EB Garamond", serif;
 }
-@media screen and (max-width: 640px) {
+.dlm{
+    font-family: "EB Garamond", serif;
+    font-size: 40px;
+}
+.card-title{
+    font-family: "EB Garamond", serif;
+}
+@media screen and (max-width: 700px) {
     .imga{
         display: none;
+    }
+    .dlm{
+        font-size: 30px;
     }
 }
