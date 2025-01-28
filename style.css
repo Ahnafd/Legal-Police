@@ -4,3 +4,8 @@
 .sub{
     font-family: "EB Garamond", serif;
 }
+@media screen and (max-width: 640px) {
+    .imga{
+        display: none;
+    }
+}
